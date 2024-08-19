@@ -142,9 +142,9 @@
 
 ## 쇼핑카트
 
- ![shopping_cart1.JPG](Picture/shopping_cart1.JPG)
+ ![shopping_cart1.JPG](Picture/shopping_cart1.jpg)
  
- ![shopping_cart2.JPG](Picture/shopping_cart2.JPG)
+ ![shopping_cart2.JPG](Picture/shopping_cart2.jpg)
 
 ## 사용자 App 및 Qt 이미지
 <div align="center">
@@ -154,7 +154,7 @@
   ### 앱의 메인화면
   <img src="Picture/logo.jpg" alt="Logo" width="200px"/>
 
-  <img src="Picture/sing_up.jpg" alt="sing_up" width="200px"/>
+  <img src="Picture/sign_up.jpg" alt="sing_up" width="200px"/>
 
   <img src="Picture/sign_up1.jpg" alt="sign_up1" width="200px"/>
 
