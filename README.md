@@ -189,10 +189,6 @@
   <img src="Picture/find_mart.jpg" alt="find_mart" width="200px"/>
 
   ### 기타 기능
-  <img src="Picture/find_pos.PNG" alt="find_pos" width="200px"/>
-
-  <img src="Picture/find_snack.png" alt="find_snack" width="200px"/>
-
   <img src="Picture/change_password.jpg" alt="change_password" width="200px"/>
 
   <img src="Picture/change_mypage.jpg" alt="change_mypage" width="200px"/>
@@ -211,7 +207,9 @@
 
   ![2 (1).PNG](Picture/qt2.PNG)
 
-  ![3 (1).PNG](Picture/qt3.PNG)
+  ![find_snack.PNG](Picture/Picture/find_snack.png)
+
+  ![find_pos.PNG](Picture/Picture/find_pos.PNG)
 
   ![4 (1).PNG](Picture/qt4.PNG)
 
