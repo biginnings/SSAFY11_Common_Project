@@ -207,9 +207,9 @@
 
   ![2 (1).PNG](Picture/qt2.PNG)
 
-  ![find_snack.PNG](Picture/Picture/find_snack.png)
+  ![find_snack.PNG](Picture/find_snack.png)
 
-  ![find_pos.PNG](Picture/Picture/find_pos.PNG)
+  ![find_pos.PNG](Picture/find_pos.PNG)
 
   ![4 (1).PNG](Picture/qt4.PNG)
 
