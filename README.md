@@ -52,6 +52,7 @@
 
 ## 주요기능 🔍
 <div align="center">
+  <div align="center">
 
   ### 📌 쇼핑카트에서 QR 스캔으로 간편 결제 기능
     - 지금까지의 상품 리스트 정보를 담은 QR 코드 생성 (QT)
@@ -68,6 +69,7 @@
     - 근처 마트 찾기
     - 쇼핑카트의 상품정보가 담긴 QR코드를 인식하고 결제 기능
     - 결제 내역 및 가계부 기능
+    </div>
   </div>
 
 
@@ -121,12 +123,14 @@
 ## 아키텍쳐 📑
 
 <div align="center">
+  
   ![architecture.JPG](Picture/architecture.JPG)
 </div>
 
 ## ERD 
 
 <div align="center">
+  
   ![erd.png](Picture/erd.png)
 </div>
 
