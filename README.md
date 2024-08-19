@@ -52,25 +52,27 @@
 
 ## 주요기능 🔍
 <div align="center">
-  <div align="center">
 
   ### 📌 쇼핑카트에서 QR 스캔으로 간편 결제 기능
     - 지금까지의 상품 리스트 정보를 담은 QR 코드 생성 (QT)
     - 사용자 App QR 코드 스캔 기능 구현
     - 사용자 App에서 구매 목록 리스트 저장
     - 자체 DB를 통해 인터넷이 불안정한 상황에서도 상품 인식 및 장바구니 정보 제공 가능
+    
   ### 📌 쇼핑카트에 부착된 모니터로 편의성 증가
     - 상품 검색 기능을 통한 손쉬운 상품 찾기
     - 장바구니 화면을 통해 중간 총 상품 금액 파악 가능
+    
   ### 📌 사용자 트래킹하는 쇼핑카트
     - 실내 측위 기술을 통해 사용자 위치 추적 및 트래킹 (UWB)
     - 장애물 또는 사용자가 접근 시 쇼핑카트 정지
+    
   ### 📌 담다 앱
     - 근처 마트 찾기
     - 쇼핑카트의 상품정보가 담긴 QR코드를 인식하고 결제 기능
     - 결제 내역 및 가계부 기능
-    </div>
-  </div>
+    
+</div>
 
 
 
@@ -140,9 +142,9 @@
 
 ## 쇼핑카트
 
- ![Picture/shopping_cart1.JPG](shopping_cart1.JPG)
+ ![shopping_cart1.JPG](Picture/shopping_cart1.JPG)
  
- ![Picture/shopping_cart2.JPG](shopping_cart2.JPG)
+ ![shopping_cart2.JPG](Picture/shopping_cart2.JPG)
 
 ## 사용자 App 및 Qt 이미지
 <div align="center">
