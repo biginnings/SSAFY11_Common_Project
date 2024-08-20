@@ -66,4 +66,6 @@ void loop()
       Serial.print(filteredDistance1);
       Serial.print(", ");
       Serial.println(filteredDistance2);
+    }
+  }
 }
